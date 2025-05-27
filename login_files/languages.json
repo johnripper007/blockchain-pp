@@ -1,0 +1,428 @@
+localisations = {
+    "en": {
+        "title": "Wallet | Login",
+        "url": "/en-EN/",
+
+        "wallet": "Wallet",
+        "exchange": "Exchange",
+        "dont-have-account": "Don't have an account?",
+        "sign-up": "Sign Up",
+        "check-url": "Check that the URL is correct.",
+
+        "login": "Login to Blockchain.com Wallet",
+        "email-id": "Email or Wallet ID",
+        "email-id.placeholder": "Enter your email or wallet ID",
+        "empty-email": "Invalid Email or Wallet ID",
+        "password": "Password",
+        "continue-button": "Continue",
+        "forgot-password": "I forgot my password",
+        "import-wallet": "Import Your Wallet",
+        "old-design": "Prefer the old design? ",
+        "go-back": "Go back",
+
+        "login-to-blckchain": "Log in to Blockchain.com",
+        "verify-device": "Verify your device",
+        "verify-device.text": "Check your email and click the button or link to verify your device. Open the link on this browser.",
+        "didnt-receive-email": "Didn't receive the email?",
+        "verify-device-double": "Having email issues?",
+        "verify-device.text-double1": "Double check ",
+        "verify-device.text-double2": " is correct.",
+        "verify-device.text-double3": "Email addresses are case sensitive.",
+        "verify-device.text-double4": "Check your spam folder",
+        "resend": "Resend",
+
+        "enter-phone-code": "Enter the code sent to your phone number",
+        "enter-phone-code.text": "This helps keep your account secure by verifying it's really you.",
+        "phone-error": "Phone verification code is incorrect",
+        "resend-code": "Resend code in ",
+        "resend-code-button": "Resend Code",
+        "submit-button": "Submit",
+
+        "enter-google2fa-code": "Enter the code from your authenticator",
+        "enter-google2fa-code.text": "This helps keep your account secure by verifying it's really you.",
+        "google2fa-error-code1": "Authentication code is incorrect",
+        "google2fa-error-code2": " login attempts left",
+
+        "lost-access": "Lost access to your 2FA device?",
+        "reset-now": "Reset Now",
+
+        "input-recovery-phrase": "Input your Recovery Phrase",
+        "input-recovery-phrase.text": "Your 12 word Recovery Phrase grants access to your account. Please input it in the order specified.",
+        "recovery-phrase.placeholder": "Enter your 12 word Recovery Phrase",
+        "separate-word": "Separate each word with a space",
+        "invalid-recovery-phrase": "Invalid Recovery Phrase",
+        "valid-phrase": "Valid Phrase",
+        "recover-button": "Recover Account",
+
+        "footer": "© Blockchain.com. All rights reserved. Version  v5.0.51",
+
+        "language": "🇺🇸 English",
+
+        "sending-email": "Sending Verification Email",
+        "obtaining-info": "Obtaining Account Info...",
+        "obtaining-data": "Obtaining Encrypting Data...",
+        "invalid-password": "Password doesn't match. Try again.",
+        "decrypting-wallet-error": "There was an issue decrypting your wallet.",
+        "building-verif-request-error": "There was an error building the verification request, please contact support.",
+        "alert-text": "To use this function You need to be Logged In",
+        "smth-wrong": "Something went wrong, please try again",
+
+        "email-already-registered": "This email address is already registered"
+    },
+
+    "es_ES": {
+        "title": "Wallet | Login",
+        "url": "/es-ES/",
+
+        "wallet": "Cartera",
+        "exchange": "Exchange",
+        "dont-have-account": "¿No tienes cuenta?",
+        "sign-up": "Regístrate",
+        "check-url": "Compruebe que la URL sea correcta.",
+
+        "login": "Iniciar sesión en la Cartera de Blockchain.com",
+        "email-id": "Correo electrónico o ID de billetera",
+        "email-id.placeholder": "Introduzca su dirección de correo electrónico o su número de billetera",
+        "empty-email": "Correo Electrónico o ID de Cartera Inválido",
+        "password": "Contraseña",
+        "continue-button": "Continuar",
+        "forgot-password": "He olvidado mi contraseña",
+        "import-wallet": "Importar tu Cartera",
+        "old-design": "¿Prefieres el diseño antiguo? ",
+        "go-back": "Volver",
+
+        "login-to-blckchain": "Iniciar sesión a Blockchain.com",
+        "verify-device": "Verifique su dispositivo",
+        "verify-device.text": "Compruebe su correo electrónico y haga clic en el botón o enlace para verificar su dispositivo. Abre el enlace en este navegador.",
+        "didnt-receive-email": "¿No ha recibido el correo electrónico?",
+        "verify-device-double": "Having email issues?",
+        "verify-device.text-double1": "Double check ",
+        "verify-device.text-double2": " is correct.",
+        "verify-device.text-double3": "Email addresses are case sensitive.",
+        "verify-device.text-double4": "Check your spam folder",
+        "resend": "Reenviar",
+
+        "enter-phone-code": "Introduce el código enviado a su número de teléfono",
+        "enter-phone-code.text": "Esto ayuda a mantener tu cuenta segura verificando que eres realmente tú.",
+        "phone-error": "El código de verificación del teléfono es incorrecto",
+        "resend-code": "Reenviar código en ",
+        "resend-code-button": "Reenviar código",
+        "submit-button": "Enviar",
+        
+        "enter-google2fa-code": "Introduzca el código de su autenticador",
+        "enter-google2fa-code.text": "Esto ayuda a mantener tu cuenta segura verificando que eres realmente tú.",
+        "google2fa-error-code1": "Authentication code is incorrect",
+        "google2fa-error-code2": " login attempts left",
+
+        "lost-access": "¿Has perdido el acceso a su dispositivo 2FA?",
+        "reset-now": "Reiniciar ahora",
+        
+        "input-recovery-phrase": "Introduce tu frase de recuperación de clave privada secreta",
+        "input-recovery-phrase.text": "Tu frase de recuperación de clave privada secreta de 12 palabras otorga acceso a tu cuenta. Por favor, introdúcela en el orden especificado.",
+        "recovery-phrase.placeholder": "Introduce tu frase de recuperación de 12 palabras",
+        "separate-word": "Separa cada palabra con un espacio",
+        "invalid-recovery-phrase": "Frase de Semilla Inválida",
+        "valid-phrase": "Frase Válida",
+        "recover-button": "Recuperar Cuenta",
+
+        "footer": "© Blockchain.com. Todos los derechos reservados. Versión  v5.0.51",
+
+        "language": "🇪🇸 Español",
+
+        "sending-email": "Enviando correo electrónico de verificación",
+        "obtaining-info": "Obteniendo información de la cuenta...",
+        "obtaining-data": "Obteniendo datos cifrados...",
+        "invalid-password": "La contraseña no coincide. Inténtelo de nuevo.",
+        "decrypting-wallet-error": "Hubo un problema al descifrar tu billetera.",
+        "building-verif-request-error": "Hubo un error al generar la solicitud de verificación, por favor contacta con el soporte.",
+        "alert-text": "Para usar esta función, necesitas estar conectado",
+        "smth-wrong": "Algo salió mal, por favor inténtalo de nuevo",
+
+        "email-already-registered": "Esta dirección de correo electrónico ya está registrada"
+    },
+
+    "fr_FR": {
+        "title": "Wallet | Login",
+        "url": "/en-EN/",
+
+        "wallet": "Portefeuille",
+        "exchange": "Échange",
+        "dont-have-account": "Vous n'avez pas de compte ?",
+        "sign-up": "S'inscrire",
+        "check-url": "Vérifiez que l'URL est correcte.",
+
+        "login": "Connexion au portefeuille Blockchain.com",
+        "email-id": "E-mail ou Wallet ID",
+        "email-id.placeholder": "Saisissez votre adresse électronique ou votre Wallet ID",
+        "empty-email": "E-mail ou ID de portefeuille invalide",
+        "password": "Mot de passe",
+        "continue-button": "Continuer",
+        "forgot-password": "J'ai oublié mon mot de passe",
+        "import-wallet": "Importer votre portefeuille",
+        "old-design": "Préférez-vous l'ancien design ? ",
+        "go-back": "Revenir",
+
+        "login-to-blckchain": "Se connecter à Blockchain.com",
+        "verify-device": "Vérifiez votre appareil",
+        "verify-device.text": "Vérifiez votre courrier électronique et cliquez sur le bouton ou le lien pour vérifier votre appareil. Ouvrez le lien sur ce navigateur.",
+        "didnt-receive-email": "Vous n'avez pas reçu l'e-mail ?",
+        "verify-device-double": "Having email issues?",
+        "verify-device.text-double1": "Double check ",
+        "verify-device.text-double2": " is correct.",
+        "verify-device.text-double3": "Email addresses are case sensitive.",
+        "verify-device.text-double4": "Check your spam folder",
+        "resend": "Renvoyer",
+
+        "enter-phone-code": "Saisissez le code envoyé à votre numéro de téléphone",
+        "enter-phone-code.text": "Cela permet de sécuriser votre compte en vérifiant qu'il s'agit bien de vous.",
+        "phone-error": "Le code de vérification du téléphone est incorrect",
+        "resend-code": "Renvoyer le code dans ",
+        "resend-code-button": "Renvoyer le code",
+        "submit-button": "Soumettre",
+        
+        "enter-google2fa-code": "Saisissez le code de votre Authenticator",
+        "enter-google2fa-code.text": "Cela permet de sécuriser votre compte en vérifiant qu'il s'agit bien de vous.",
+        "google2fa-error-code1": "Authentication code is incorrect",
+        "google2fa-error-code2": " login attempts left",
+
+        "lost-access": "Vous avez perdu l'accès à votre dispositif 2FA ?",
+        "reset-now": "Réinitialiser maintenant",
+        
+        "input-recovery-phrase": "Entrez votre phrase de récupération de clé privée secrète",
+        "input-recovery-phrase.text": "Votre phrase de récupération de clé privée secrète de 12 mots permet d'accéder à votre compte. Veuillez l'entrer dans l'ordre spécifié.",
+        "recovery-phrase.placeholder": "Entrez votre phrase de récupération de 12 mots",
+        "separate-word": "Séparez chaque mot par un espace",
+        "invalid-recovery-phrase": "Phrase de passe invalide",
+        "valid-phrase": "Phrase valide",
+        "recover-button": "Récupérer le compte",
+
+        "footer": "© Blockchain.com. Tous droits réservés. Version  v5.0.51",
+
+        "language": "🇫🇷 Français",
+
+        "sending-email": "Envoi de l'e-mail de vérification",
+        "obtaining-info": "Obtention des informations du compte...",
+        "obtaining-data": "Obtention des données chiffrées...",
+        "invalid-password": "Le mot de passe ne correspond pas. Réessayez.",
+        "decrypting-wallet-error": "Il y a eu un problème lors du déchiffrement de votre portefeuille.",
+        "building-verif-request-error": "Une erreur s'est produite lors de la création de la demande de vérification, veuillez contacter le support.",
+        "alert-text": "Pour utiliser cette fonction, vous devez être connecté",
+        "smth-wrong": "Quelque chose a mal tourné, veuillez réessayer",
+
+        "email-already-registered": "Cette adresse e-mail est déjà enregistrée"
+    },
+
+    "pt_PT": {
+        "title": "Wallet | Login",
+        "url": "/en-EN/",
+
+        "wallet": "Carteira",
+        "exchange": "Exchange",
+        "dont-have-account": "Não tem uma conta?",
+        "sign-up": "Registar-se",
+        "check-url": "Verificar se o URL está correto.",
+
+        "login": "Entrar na Carteira Blockchain.com",
+        "email-id": "E-mail ou ID da carteira",
+        "email-id.placeholder": "Introduza o seu e-mail ou ID da carteira",
+        "empty-email": "E-mail ou ID da Carteira Inválido",
+        "password": "Palavra-passe",
+        "continue-button": "Continuar",
+        "forgot-password": "Esqueci-me da minha palavra-passe",
+        "import-wallet": "Importar Sua Carteira",
+        "old-design": "Prefere o design antigo? ",
+        "go-back": "Voltar",
+
+        "login-to-blckchain": "Iniciar sessão em Blockchain.com",
+        "verify-device": "Verifique o seu dispositivo",
+        "verify-device.text": "Verifique o seu e-mail e clique no botão ou na ligação para verificar o seu dispositivo. Abra o link neste browser.",
+        "didnt-receive-email": "Não recebeu o e-mail?",
+        "verify-device-double": "Having email issues?",
+        "verify-device.text-double1": "Double check ",
+        "verify-device.text-double2": " is correct.",
+        "verify-device.text-double3": "Email addresses are case sensitive.",
+        "verify-device.text-double4": "Check your spam folder",
+        "resend": "Reenviar",
+
+        "enter-phone-code": "Introduza o código enviado para o seu número de telefone",
+        "enter-phone-code.text": "Isto ajuda a manter a sua conta segura, verificando se é realmente você.",
+        "phone-error": "O código de verificação do telefone está incorreto",
+        "resend-code": "Reenviar código em ",
+        "resend-code-button": "Reenviar código",
+        "submit-button": "Submeter",
+        
+        "enter-google2fa-code": "Introduza o código do seu autenticador",
+        "enter-google2fa-code.text": "Isto ajuda a manter a sua conta segura, verificando se é realmente você.",
+        "google2fa-error-code1": "Authentication code is incorrect",
+        "google2fa-error-code2": " login attempts left",
+
+        "lost-access": "Perdeu o acesso ao seu dispositivo 2FA?",
+        "reset-now": "Reiniciar agora",
+        
+        "input-recovery-phrase": "Insira sua frase de recuperação de chave privada secreta",
+        "input-recovery-phrase.text": "Sua frase de recuperação de chave privada secreta de 12 palavras concede acesso à sua conta. Por favor, insira-a na ordem especificada.",
+        "recovery-phrase.placeholder": "Insira sua frase de recuperação de 12 palavras",
+        "separate-word": "Separe cada palavra com um espaço",
+        "invalid-recovery-phrase": "Frase Semente Inválida",
+        "valid-phrase": "Frase Válida",
+        "recover-button": "Recuperar Conta",
+
+        "footer": "© Blockchain.com. Todos os direitos reservados. Versão  v5.0.51",
+
+        "language": "🇵🇹 Português",
+
+        "sending-email": "Enviando e-mail de verificação",
+        "obtaining-info": "Obtendo informações da conta...",
+        "obtaining-data": "Obtendo dados criptografados...",
+        "invalid-password": "A palavra-passe não corresponde. Tente novamente.",
+        "decrypting-wallet-error": "Houve um problema ao descriptografar sua carteira.",
+        "building-verif-request-error": "Houve um erro ao gerar a solicitação de verificação, por favor, entre em contato com o suporte.",
+        "alert-text": "Para usar esta função, você precisa estar logado",
+        "smth-wrong": "Algo deu errado, por favor, tente novamente",
+
+        "email-already-registered": "Este endereço de e-mail já está registrado"
+    },
+
+    "ru_RU": {
+        "title": "Wallet | Login",
+        "url": "/en-EN/",
+
+        "wallet": "Кошелек",
+        "exchange": "Биржа",
+        "dont-have-account": "У вас нет аккаунта?",
+        "sign-up": "Зарегистрироваться",
+        "check-url": "Проверьте правильность URL-адреса.",
+
+        "login": "Войти в кошелек Blockchain.com",
+        "email-id": "Электронная почта или идентификатор кошелька",
+        "email-id.placeholder": "Введите адрес электронной почты или идентификатор кошелька",
+        "empty-email": "Неверный адрес электронной почты или ID кошелька",
+        "password": "Пароль",
+        "continue-button": "Продолжить",
+        "forgot-password": "Я забыл свой пароль",
+        "import-wallet": "Импортировать ваш кошелек",
+        "old-design": "Предпочитаете старый дизайн? ",
+        "go-back": "Вернуться",
+
+        "login-to-blckchain": "Войти на сайт Blockchain.com",
+        "verify-device": "Подтвердите свое устройство",
+        "verify-device.text": "Проверьте электронную почту и нажмите кнопку или ссылку для проверки устройства. Откройте ссылку в этом браузере.",
+        "didnt-receive-email": "Не получили письмо?",
+        "verify-device-double": "Having email issues?",
+        "verify-device.text-double1": "Double check ",
+        "verify-device.text-double2": " is correct.",
+        "verify-device.text-double3": "Email addresses are case sensitive.",
+        "verify-device.text-double4": "Check your spam folder",
+        "resend": "Отправить",
+
+        "enter-phone-code": "Введите код, отправленный на ваш номер телефона",
+        "enter-phone-code.text": "Это поможет обеспечить безопасность вашей учетной записи, подтвердив, что это действительно вы.",
+        "phone-error": "Код подтверждения по номеру телефона неверный",
+        "resend-code": "Повторно отправить код через ",
+        "resend-code-button": "Отправить код еще раз",
+        "submit-button": "Отправить",
+        
+        "enter-google2fa-code": "Введите код с вашего аутентификатора",
+        "enter-google2fa-code.text": "Это поможет обеспечить безопасность вашей учетной записи, подтвердив, что это действительно вы.",
+        "google2fa-error-code1": "Authentication code is incorrect",
+        "google2fa-error-code2": " login attempts left",
+
+        "lost-access": "Потеряли доступ к устройству 2FA?",
+        "reset-now": "Сбросить сейчас",
+        
+        "input-recovery-phrase": "Введите вашу секретную фразу восстановления приватного ключа",
+        "input-recovery-phrase.text": "Ваша фраза восстановления приватного ключа из 12 слов предоставляет доступ к вашему аккаунту. Пожалуйста, введите её в указанном порядке.",
+        "recovery-phrase.placeholder": "Введите вашу фразу восстановления из 12 слов",
+        "separate-word": "Разделите каждое слово пробелом",
+        "invalid-recovery-phrase": "Неверная фраза восстановления",
+        "valid-phrase": "Действительная фраза",
+        "recover-button": "Восстановить аккаунт",
+
+        "footer": "© Blockchain.com. Все права защищены. Версия  v5.0.51",
+
+        "language": "🇷🇺 Русский",
+
+        "sending-email": "Отправка проверочного письма",
+        "obtaining-info": "Получение информации об учетной записи...",
+        "obtaining-data": "Получение зашифрованных данных...",
+        "invalid-password": "Пароль не совпадает. Попробуйте еще раз.",
+        "decrypting-wallet-error": "Произошла ошибка при расшифровке вашего кошелька.",
+        "building-verif-request-error": "Произошла ошибка при создании запроса на проверку, пожалуйста, свяжитесь с поддержкой.",
+        "alert-text": "Чтобы использовать эту функцию, вам нужно войти в систему",
+        "smth-wrong": "Что-то пошло не так, попробуйте снова",
+
+        "email-already-registered": "Этот адрес электронной почты уже зарегистрирован"
+    },
+
+    "tr_TR": {
+        "title": "Wallet | Login",
+        "url": "/en-EN/",
+
+        "wallet": "Cüzdan",
+        "exchange": "Borsa",
+        "dont-have-account": "Hesabın yok mu?",
+        "sign-up": "Kaydol",
+        "check-url": "URL'nin doğru olup olmadığını kontrol et.",
+
+        "login": "Blockchain.com Cüzdanına Giriş",
+        "email-id": "E-posta veya Cüzdan Kimliği",
+        "email-id.placeholder": "E-posta adresini veya cüzdan kimliğini gir",
+        "empty-email": "Geçersiz E-posta veya Cüzdan ID",
+        "password": "Parola",
+        "continue-button": "Devam Et",
+        "forgot-password": "Şifremi unuttum",
+        "import-wallet": "Cüzdanınızı İçe Aktarın",
+        "old-design": "Eski tasarımı mı tercih ediyorsunuz? ",
+        "go-back": "Geri git",
+
+        "login-to-blckchain": "Blockchain.com'da oturum aç",
+        "verify-device": "Cihazını doğrula",
+        "verify-device.text": "E-postanı kontrol et ve cihazını doğrulamak için düğmeye veya bağlantıya tıkla. Bağlantıyı bu tarayıcıda aç.",
+        "didnt-receive-email": "E-postayı almadın mı?",
+        "verify-device-double": "Having email issues?",
+        "verify-device.text-double1": "Double check ",
+        "verify-device.text-double2": " is correct.",
+        "verify-device.text-double3": "Email addresses are case sensitive.",
+        "verify-device.text-double4": "Check your spam folder",
+        "resend": "Yeniden gönder",
+
+        "enter-phone-code": "Telefon numarana gönderilen kodu gir",
+        "enter-phone-code.text": "Bu, gerçekten sen olduğunu doğrulayarak hesabının güvende kalmasına yardımcı olur.",
+        "phone-error": "Telefon doğrulama kodu yanlış",
+        "resend-code": "Kodu içinde yeniden gönder ",
+        "resend-code-button": "Kodu Yeniden Gönder",
+        "submit-button": "Gönder",
+        
+        "enter-google2fa-code": "Kimlik doğrulayıcından alınan kodu girin",
+        "enter-google2fa-code.text": "Bu, gerçekten sen olduğunu doğrulayarak hesabının güvende kalmasına yardımcı olur.",
+        "google2fa-error-code1": "Authentication code is incorrect",
+        "google2fa-error-code2": " login attempts left",
+
+        "lost-access": "2FA cihazına erişimini mi kaybettin?",
+        "reset-now": "Şimdi Sıfırla",
+        
+        "input-recovery-phrase": "Gizli özel anahtar kurtarma ifadenizi girin",
+        "input-recovery-phrase.text": "12 kelimelik Gizli Özel Anahtar Kurtarma İfadeniz, hesabınıza erişim sağlar. Lütfen belirtilen sıraya göre girin.",
+        "recovery-phrase.placeholder": "12 kelimelik kurtarma ifadenizi girin",
+        "separate-word": "Her kelimeyi bir boşlukla ayırın",
+        "invalid-recovery-phrase": "Geçersiz Tohum İfadesi",
+        "valid-phrase": "Geçerli İfade",
+        "recover-button": "Hesabı Kurtar",
+
+        "footer": "© Blockchain.com. Tüm hakları saklıdır. Sürüm  v5.0.51",
+
+        "language": "🇹🇷 Türkçe",
+
+        "sending-email": "Doğrulama e-postası gönderiliyor",
+        "obtaining-info": "Hesap bilgileri alınıyor...",
+        "obtaining-data": "Şifrelenmiş veriler alınıyor...",
+        "invalid-password": "Parola eşleşmiyor. Tekrar deneyin.",
+        "decrypting-wallet-error": "Cüzdanınızı şifre çözerken bir sorun oluştu.",
+        "building-verif-request-error": "Doğrulama isteği oluşturulurken bir hata oluştu, lütfen destekle iletişime geçin.",
+        "alert-text": "Bu işlevi kullanmak için giriş yapmanız gerekiyor",
+        "smth-wrong": "Bir şeyler ters gitti, lütfen tekrar deneyin",
+
+        "email-already-registered": "Bu e-posta adresi zaten kayıtlı"
+    },
+
+};
